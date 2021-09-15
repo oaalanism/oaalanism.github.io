@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document id="1xGy1Z8bXpqVVNQXN_GwLxCrHAwx0mfcO">
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
 	<name>Ligne 1</name>
 	<Style id="redLine">
       <LineStyle>
@@ -8,7 +8,7 @@
         <width>4</width>
       </LineStyle>
     </Style>
-	<Placemark id="00132ECD6D1D14D66F3E">
+	<Placemark>
 		<name>L1</name>
 		<styleUrl>#redLine</styleUrl>
 		<LineString>
