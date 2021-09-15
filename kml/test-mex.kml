@@ -36,11 +36,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>#ff0000ff</color>
+				<color>ff0000ff</color>
 				<width>3.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>#ff0000ff</color>
+				<color>ff0000ff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
