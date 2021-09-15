@@ -36,15 +36,14 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2f2fd3</color>
+				<color>ffffffff</color>
 				<width>4.8</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ff2f2fd3</color>
+				<color>ffffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
-				<bgColor>ffffffff</bgColor>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
