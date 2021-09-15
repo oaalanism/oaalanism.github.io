@@ -11,7 +11,7 @@
         </Style>
 
         <Placemark>
-            <name> Ligne 1 - 1 </name>
+            <name> Ligne 1 </name>
             <styleUrl>#redLine</styleUrl>
             <LineString>
                 <altitudeMode> absolute </altitudeMode>
