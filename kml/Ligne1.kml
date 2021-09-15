@@ -5,7 +5,7 @@
 	<Style id="redLine">
       <LineStyle>
         <color>fc0000</color>
-        <width>4</width>
+        <width>10</width>
       </LineStyle>
     </Style>
 	<Placemark>
