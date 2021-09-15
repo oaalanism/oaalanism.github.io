@@ -4,7 +4,7 @@
 	<name>Ligne 1</name>
 	<Style id="redLine">
       <LineStyle>
-        <color>ff0000ff</color>
+        <color>fc0000</color>
         <width>4</width>
       </LineStyle>
     </Style>
