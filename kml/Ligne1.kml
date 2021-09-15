@@ -40,10 +40,11 @@
 				<width>4.8</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>40ffffff</color>
+				<color>ff2f2fd3</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
+				<bgColor>ffffffbb</bgColor>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
