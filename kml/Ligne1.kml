@@ -13,11 +13,11 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ff2f2fd3</color>
+				<color>ffffffff</color>
 				<width>3.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>40ffffff</color>
+				<color>ffffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
 				 <bgColor>ffffffff</bgColor> 
