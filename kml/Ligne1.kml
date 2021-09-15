@@ -44,7 +44,7 @@
 			</PolyStyle>
 			<BalloonStyle>
 				<displayMode>hide</displayMode>
-				<bgColor>ffffffbb</bgColor>
+				<bgColor>ffffffff</bgColor>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
