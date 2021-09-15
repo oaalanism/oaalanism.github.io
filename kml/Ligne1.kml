@@ -20,7 +20,7 @@
 				<color>40ffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
-				<displayMode>hide</displayMode>
+				 <bgColor>00664422</bgColor> 
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
@@ -43,7 +43,7 @@
 				<color>ffffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
-				<displayMode>hide</displayMode>
+				 <bgColor>00664422</bgColor> 
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
