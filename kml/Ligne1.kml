@@ -13,14 +13,13 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffffffff</color>
+				<color>ff2f2fd3</color>
 				<width>3.2</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ffffffff</color>
+				<color>40ffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
-				 <bgColor>ffffffff</bgColor> 
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
@@ -36,14 +35,13 @@
 			<LabelStyle>
 			</LabelStyle>
 			<LineStyle>
-				<color>ffffffff</color>
+				<color>ff2f2fd3</color>
 				<width>4.8</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>ffffffff</color>
+				<color>40ffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
-				 <bgColor>ffffffff</bgColor> 
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
