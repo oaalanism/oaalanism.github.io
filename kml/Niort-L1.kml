@@ -5,7 +5,7 @@
 
         <Style id="redLine">
             <LineStyle>
-            <color>ffff0000</color>
+            <color>ff00ffff</color>
             <width>4</width>
             </LineStyle>
         </Style>
